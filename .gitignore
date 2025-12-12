@@ -2,4 +2,5 @@
 !wp-content/
 !wp-content/**
 
+# ignore the git
 !.gitignore
