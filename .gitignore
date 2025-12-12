@@ -1,3 +1,6 @@
+# ignore everything
+*
+
 # ignore all of the file and folder except
 !wp-content/
 !wp-content/**
