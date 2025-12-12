@@ -1,6 +1,5 @@
-wp-content/uploads/
-wp-content/cache/
-wp-content/upgrade/
-wp-config.php
-node_modules/
-.env
+
+
+*
+!.gitignore
+!wp-content
