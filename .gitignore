@@ -1,4 +1,3 @@
-
-*.log
-!.gitignore
-!wp-content
+# ignore all of the file and folder except
+!wp-content/
+!wp-content/**
