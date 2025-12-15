@@ -21,7 +21,7 @@
                     <a href="">About</a>
                 </li>
                 <li>
-                    <a href="">Shop</a>
+                    <a href="">category</a>
                 </li>
                 <li>
                     <a href="">Products</a>
